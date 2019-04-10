@@ -1,0 +1,51 @@
+#de{
+	margin-left:1600px;
+}
+#hr1{
+	margin-right: 100px;
+}
+#bu{
+	border: 2px solid black;
+	font-family: sans-serif;
+}
+#bu5{
+	border: 2px solid black;
+	font-family: sans-serif;
+}
+#bu4{
+	border: 2px solid black;
+	font-family: sans-serif;
+}
+#bu3{
+	border: 2px solid black;
+	font-family: sans-serif;
+	
+}
+#bu2{
+	border: 2px solid black;
+	font-family: sans-serif;
+}
+#img1{
+	border:5px solid black;
+}
+@font-face{
+	font-family:"1.ttf";
+	src: url("Text/1.ttf");
+	font-style: normal;
+	font-weight: normal;
+}
+#text3{
+	font-size:20px;
+	font-family:"1.ttf"; 
+}
+#text2{
+	font-family: sans-serif;
+	font-size:40px;
+	color:#31D8F9;
+}
+#text1{
+	font-family: sans-serif;
+	font-size: 60px;
+	margin-left:500px;
+	margin-top:40px;
+}
